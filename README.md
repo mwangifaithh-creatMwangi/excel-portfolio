@@ -15,3 +15,13 @@ I am learning Excel for data analytics and documenting my progress.
 ## Goal
 To build a strong foundation in data analytics and prepare for entry-level roles.
 
+## Analysis Performed
+- Total income vs expenses using pivot tables
+- Expense breakdown by category
+- Identified highest spending categories
+
+## Key Insights
+- Expenses account for a large portion of income
+- Food and rent are the highest expense categories
+
+
